@@ -33,6 +33,7 @@ Claude AI analyses each company's profile and generates 3 specific workflow reco
 **5. Outreach Targeting**
 Identifies the exact job title to reach out to at each company — the person most likely to own the decision.
 
+DEMO VIDEO: https://drive.google.com/file/d/1qy8E5BEOurEH5pjWWxLMUAiqddNNW8tP/view?usp=sharing
 ---
 
 ## Tech Stack
